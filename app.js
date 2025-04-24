@@ -1,5 +1,5 @@
 function exibeMensagem(){
-    console.log("meu primeiro commit");
+    console.log("alterando a função na branch de desenvolvimento");
 }
 
 exibeMensagem();
